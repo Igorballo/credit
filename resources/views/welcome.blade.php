@@ -69,7 +69,7 @@
                             <div class="card card_border border-primary-top p-4">
                                 <!-- <i class="lnr lnr-cart"> </i> -->
                                 <i class="lnr lnr-user"></i>
-                                <h3 class="text-danger number">14,000</h3>
+                                <h3 class="text-danger number">18</h3>
                                 <p class="stat-text">Partenaires</p>
                             </div>
                         </div>
