@@ -64,9 +64,7 @@
                             <div class="flex flex-col">
                                 <label for="">Pays du bénéficiare*</label>
                                 <select class="w-full mt-3 text-gray-700 text-lg h-12 border-red-600 border ring-2 ring-red-300 focus:outline-none" name="" id="">
-                                    <option value="">Togo</option>
-                                    <option value="">Bénin</option>
-                                    <option value="">Ghana</option>
+                                    <option value="">France</option>
                                 </select>
                             </div>
 

@@ -15,6 +15,7 @@
                     <div class="welcome-msg pt-3 pb-4">
                         <h1>Salut, <span class="text-primary">{{ $customer  }} </span>, Bienvenue à nouveau</h1>
                         <p class="fst-italic" style="margin-top: 8px;">Dernière connexion: {{ now() }}</p>
+                        <p class="text-uppercase text-red-500">Compte bloqué</p>
                     </div>
                     <div class="d-flex flex-row">
                         <span class="mb-2 text-primary">Nom Gestionnaire:</span>
