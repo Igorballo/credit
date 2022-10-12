@@ -16,9 +16,9 @@ class Controller extends BaseController
 
     public function __construct()
     {
-        View::share ( 'nombanque', 'CRÉDIT LYONNAISE' );
-        View::share ( 'customer', 'CROGIEZ Martine' );
-        View::share ( 'gestionnaire', 'HRABOWJ Martin Jean' );
+        View::share ( 'nombanque', 'BNP PARISBAS' );
+        View::share ( 'customer', 'GONZALEZ Anne Maélle' );
+        View::share ( 'gestionnaire', 'KASSAL Gilbert Firin' );
         View::share ( 'amount', 28800 );
     }
 }
