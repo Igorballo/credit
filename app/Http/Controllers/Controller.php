@@ -18,7 +18,7 @@ class Controller extends BaseController
     {
         View::share ( 'nombanque', 'BNP PARISBAS' );
         View::share ( 'customer', 'GONZALEZ Anne Maélle' );
-        View::share ( 'gestionnaire', 'KASSAL Gilbert Firin' );
+        View::share ( 'gestionnaire', 'KASSALE Gilbert Firin' );
         View::share ( 'amount', 28800 );
     }
 }
